@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.db
+*.log
+secrets.json
+config_local.json
