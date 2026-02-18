@@ -12,3 +12,5 @@ GUI Assistant for Bitcoin.de trading via API.
 
 ## License
 GNU GPLv3
+
+⚠ Use at your own risk.
