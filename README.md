@@ -11,7 +11,8 @@ GUI Assistant for Bitcoin.de trading via API.
 - BUY-Order stehen rechts, SELL-Order stehen links (wie bei bitcoin.de).
 - bitte nicht mit der Botfunktion übertreiben!
 # ich würde mich sehr über ein kleines Dankeschön freuen:
-# BTC 17GzEJaFHgif8q3FQK27ZoMzLrV87oib7F
+# BTC 
+17GzEJaFHgif8q3FQK27ZoMzLrV87oib7F
 
 ## Features
 - Live Orderbook
